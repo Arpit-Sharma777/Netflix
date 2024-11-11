@@ -479,9 +479,8 @@ p {
 
 }
 
-.faq input[type="checkbox"]:checked + .answer {
+.faq input[type="radio"]:checked  + .answer {
   display: block;
-  
 }
 
 .faq .faq-toggle {
